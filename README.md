@@ -3,8 +3,8 @@
 
 - 🔭 I'm currently working on my first big project that I plan on using in my current job.
 - 🌱 I'm currently learning React.js to be able to create a frontend to my web application.
-- 👯 I would love to find someone experienced that would have occasionaly few minutes to discuss some ideas/issues with my project
-- 📫 Feel free to reach out any time via [LinkedIn](https://www.linkedin.com/in/david-szotek-1164932b2/) or [Email](david.szotek.vs@gmail.com)
+- 👯 I would love to find someone experienced that would have occasionaly few minutes to discuss some ideas/issues with my project.
+- 📫 Feel free to reach out any time via **[LinkedIn]**(https://www.linkedin.com/in/david-szotek-1164932b2/) or Email: **david.szotek.vs@gmail.com**
 <!--
 **DavidSzotek/DavidSzotek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
